@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  -Azubi Stores Analyzer |  -This program performs simple analysis on Azubi stores| https://github.com/AlphaLock/azubi-stores.git      |
+| 2 |  -Restaurant Calculator|  -  This program calculates prices at the restaurant| https://github.com/AlphaLock/restaurant_calculator.git      |
+| 3 |  -  Dating App           |  - this program checks compatibility of love birds | https://github.com/AlphaLock/dating_app.git       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
